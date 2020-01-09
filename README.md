@@ -2,7 +2,7 @@
 
 For comparison I took 2 popular algorithms: UNet[1] (with various encoders) and DeepLab V3+[2]
 
-## Train time measurements
+## Train and validation loss measurements
 
 ![ResNet34](https://github.com/kaichoulyc/course_segmentation/blob/master/figures/resnet34_loss.png)
 
